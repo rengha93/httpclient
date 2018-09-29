@@ -1,0 +1,148 @@
+*****************trouser*****************
+{
+        "name": "Raymonds",
+       
+	"price": "1200",
+        
+	"description": "Blue Formal trouser",
+        
+	"img": "src\\assets\\images\\t1.jpg",
+	"category": "trouser"
+},
+{
+        "name": "Basics 029",
+
+        "price": "1100",
+        
+	"description": "Brown Chinos",
+        
+	"img": "src\\assets\\images\\t2.jpg",
+	"category": "trouser"
+},
+{
+        "name": "Pepe Jeans",
+        
+	"price": "1600",
+        
+	"description": "navy Blue Denim",
+        
+	"img": "src\\assets\\images\\t3.jpg",
+	"category": "trouser"
+},
+{
+        "name": "US Polo",
+        
+	"price": "800",
+        
+	"description": "Blue Denim Short",
+        
+	"img": "src\\assets\\images\\t4.jpg",
+	"category": "trouser"
+},
+{
+        "name": "UCB",
+        
+	"price": "700",
+        
+	"description": "Chino Short",
+        
+	"img": "src\\assets\\images\\t5.jpg",
+	"category": "trouser"
+}
+***********************SHirt**************
+{
+        "name": "Allen Solly",
+        
+	"price": "1200",
+        
+	"description": "Roadies Brown T-Shirt",
+	"img": "src\\assets\\images\\f1.jpg",
+	"category": "shirt"
+},
+{
+        "name": "Levis",
+        
+	"price": "1500",
+        
+	"description": "Grey Cotton Shirt",
+	"img": "src\\assets\\images\\vtv1.jpg",
+	"category": "shirt"
+},
+{
+        "name": "LP",
+        
+	"price": "1000",
+        
+	"description": "Silky Black Shirt",
+	"img": "src\\assets\\images\\srk1.jpg",
+	"category": "shirt"
+},
+{
+        "name": "LP",
+        
+	"price": "1000",
+        
+	"description": "a business Suite",
+	"img": "src\\assets\\images\\dq2.jpg",
+	"category": "shirt"
+},
+{
+        "name": "LP",
+
+	"price": "1000",
+        
+	"description": "Suite",
+	"img": "src\\assets\\images\\dq1.jpg",
+	"category": "shirt"
+}
+**********************SHOOE***************
+{
+        "name": "NIKE",
+        
+	"price": "1800",
+        
+	"description": "Nike-SB Black Sneakers",
+        
+	"img": "src\\assets\\images\\s1.jpg",
+	"category": "shoe"
+},
+{
+        "name": "NIKE-SB",
+        
+	"price": "1600",
+        
+	"description": "Funky Red and White Sneakers",
+        
+	"img": "src\\assets\\images\\s2.jpg",
+	"category": "shoe"
+},
+{
+        "name": "WROGN",
+        
+	"price": "1200",
+        
+	"description": "White Sneakers",
+        
+	"img": "src\\assets\\images\\s3.jpg",
+	"category": "shoe"
+},
+{
+        "name": "NIKE-AIR",
+        
+	"price": "1200",
+        
+	"description": "MEN's Blue Sports Shoe",
+        
+	"img": "src\\assets\\images\\s4.jpg",
+	"category": "shoe"
+},
+{
+        "name": "Red-Tape",
+        
+	"price": "1200",
+        
+	"description": "Brown Formal Shoe",
+        
+	"img": "src\\assets\\images\\s5.jpg",
+	"category": "shoe"
+}
